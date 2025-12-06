@@ -1,5 +1,4 @@
 # VPN
-این رو می‌تونی توی یه فایل مثل docs/01-edge-server-setup.md بذاری:
 
 # Edge Server (Hetzner) – Secure Setup & Xray (VLESS + REALITY)
 
