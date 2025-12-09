@@ -61,3 +61,7 @@ sudo systemctl restart xray
 sudo systemctl status xray
 sudo ss -tulpn | grep xray
 
+systemctl stop xray
+cp /usr/local/etc/xray/config-YYYY-MM-DD-HHMM.json /usr/local/etc/xray/config.json
+systemctl restart xray
+
